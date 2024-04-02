@@ -189,5 +189,5 @@ export const navLinks = [
     prompt: "",
     publicId: "",
   };
-  
+   
   export const creditFee = -1;
